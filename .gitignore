@@ -1,0 +1,14 @@
+# Database & output files (tự sinh ra khi chạy code, không cần lưu)
+*.db
+research_profiles.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Virtual environment (nếu có)
+venv/
+env/
